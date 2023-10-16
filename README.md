@@ -4,7 +4,8 @@ Los siguientes proyectos fueron realizados dentro de la plataforma de [DataCamp]
 
 ## Proyecto Guiado: [Data Driven Product Management Conducting a Market Analysis](https://github.com/VesnaPivac/Proyectos_guiados_y_no_guiados/tree/main/Data%20Driven%20Product%20Management%20Conducting%20a%20Market%20Analysis)
 
-Este proyecto se centra en la gestión de productos impulsada por datos, específicamente en la realización de un análisis de mercado. A través de este proyecto, hemos explorado datos relevantes para comprender las tendencias del mercado en el sector de acondicionamiento físico y ejercicio. A continuación, se presentan los principales hallazgos y conclusiones:
+Este proyecto se centra en la gestión de productos impulsada por datos, específicamente en la realización de un análisis de mercado. A través de este proyecto, hemos explorado datos relevantes para comprender las tendencias del mercado en el sector de acondicionamiento físico y ejercicio. A continuación, se presentan los principales hallazgos y conclusiones.
+
 **Hallazgos clave:**
 - Identificamos que la fecha de mayor interés en la búsqueda de rutinas de ejercicio coincidió con el inicio de la pandemia de COVID-19 en 2020, destacando la importancia de mantenerse activo en tiempos de cuarentena.
 - La búsqueda más común en la actualidad es "gym workout", lo que sugiere un continuo interés en las rutinas de gimnasio.
@@ -25,7 +26,7 @@ En este proyecto, utilizamos un conjunto de datos llamado 'logins.csv', que cont
 
 Para abordar estas preguntas, llevamos a cabo una serie de procedimientos que incluyeron la segmentación de contraseñas en válidas e inválidas, la verificación de requisitos de seguridad, la extracción de nombres y apellidos de los usuarios, y el cálculo del porcentaje de contraseñas no válidas.
 
-Resultados Clave:
+**Hallazgos Clave:**
 Nuestro análisis reveló que el 75% de los usuarios tienen contraseñas no válidas, lo que corresponde a un total de 736 usuarios. Estos usuarios recibirán notificaciones solicitando el cambio de contraseña, ya que sus contraseñas no cumplen con los estándares necesarios para garantizar la seguridad de sus cuentas.
 
 La seguridad de las contraseñas de usuario es un tema crítico en el mundo en línea. Garantizar que las contraseñas cumplan con los estándares de seguridad es esencial para proteger la información personal y mantener la integridad de las cuentas de los usuarios. Este proyecto contribuye a mejorar la seguridad en línea al identificar y abordar contraseñas no seguras.
